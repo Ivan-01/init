@@ -1,0 +1,4 @@
+Thanks to the previous question and the reverse DNS find the name 
+of your host
+
+nslookup 10.51.1.253 | grep "dns"

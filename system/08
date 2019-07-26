@@ -1,0 +1,5 @@
+What file contains the RSA keys of systems that are authorized to connect via SSH?
+
+SSH keys provide a more secure way of logging into a server.
+file saved in .ssh folder
+/etc/ssh/ssh_host_rsa_key

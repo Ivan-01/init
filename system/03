@@ -1,0 +1,6 @@
+What file has to be modified to make it permanent?
+
+1) Open /etc/hostname in a text editor (nano, vim ...) and change your current hostname.
+2) Open /etc/hosts in a text editor and update your old hostname to a new one.
+3) Reboot the system (/etc/init.d/ssh restart)
+

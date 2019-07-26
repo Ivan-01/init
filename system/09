@@ -1,0 +1,5 @@
+What command lets you know who is connected to the System?
+
+who -u | cut -c -9
+or
+who -q | head -1

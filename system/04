@@ -1,0 +1,7 @@
+ What command gives you the time since your system was last booted?
+
+uptime --since
+or
+who -b
+or
+last reboot | cut -c 40- | cut -c -16

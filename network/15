@@ -1,0 +1,5 @@
+Make the intra.42.fr address reroute to 46.19.122.85
+
+go to /etc/hosts
+I cannot reroute intra.42.fr to 46.19.122.85 as I don't have permissions to do
+it. Read only permission.

@@ -1,0 +1,4 @@
+Name the command that lists the partition tables of drives?
+
+1. df
+2. lsblk

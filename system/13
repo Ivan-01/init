@@ -1,0 +1,4 @@
+Name the command that find, in real time, currently running processes
+
+1. ps aux
+2. top

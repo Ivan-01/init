@@ -1,0 +1,5 @@
+Name the command that reboots the SSH service.
+
+1. systemctl restart ssh
+2. /etc/init.d/ssh restart
+3. service ssh restart
